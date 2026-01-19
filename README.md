@@ -16,6 +16,7 @@ v1.0.0.1 :
 1. Your settings are now saved from your last session so you only need to enter them once. (Includes last fixed location)
 2. Added double clicking and triple clicking
 3. Added Right clicking and middle clicking
+<img width="436" height="313" alt="image" src="https://github.com/user-attachments/assets/dca46b51-f1a1-4e09-8cd6-8371fd99a4d4" />
 
 Features
 Choose whether to follow your cursor or click at a fixed spot
